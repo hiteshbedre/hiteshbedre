@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bedrehitesh" target="blank"><img src="https://img.shields.io/twitter/follow/bedrehitesh?logo=twitter&style=for-the-badge" alt="bedrehitesh" /></a> </p>
 
-- 🔭 I’m currently working on [priovado](https://github.com/Privado-Inc/privado)
+- 🔭 I’m currently working on [privado](https://github.com/Privado-Inc/privado)
 
 - 🌱 I’m currently learning **Static Analysis**
 
