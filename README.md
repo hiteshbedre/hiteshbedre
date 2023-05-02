@@ -11,6 +11,15 @@
 
 - 💬 Ask me about **Regex and Privacy via Code**
 
+
+<h3 align="left">Open Source Contribution:</h3>
+ 
+<p align="left"> 
+<a href="https://github.com/Tencent/APIJSON/pull/543"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Tencent_Logo.svg" style="width:120px;height:80px;"> </a> <a href="https://github.com/rustdesk/rustdesk/pull/4147"><img src="https://avatars.githubusercontent.com/u/71636191?v=4" style="width:120px;height:80px;"></a> </a> <a href="https://github.com/calcom/cal.com/pull/8612"><img src="https://avatars.githubusercontent.com/u/79145102?s=200&v=4" style="width:120px;height:80px;"> </a> <a href="https://github.com/HaveIBeenPwned/EmailAddressExtractor/pull/9"><img src="https://avatars.githubusercontent.com/u/78988770?s=200&v=4" style="width:120px;height:80px;"></a> <a href="https://github.com/Dynatrace/OneAgent-SDK-for-Python/pull/27"><img src="https://avatars.githubusercontent.com/u/6412311?s=200&v=4" style="width:120px;height:80px;"></a> <a href="https://github.com/Animenosekai/translate/pull/83"><img src="https://www.lingualinx.com/hubfs/language%20translator%20job%20(1).jpg" style="width:120px;height:80px;"></a>
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bedrehitesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bedrehitesh" height="30" width="40" /></a>
@@ -25,13 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshbedre&show_icons=true&locale=en" alt="hiteshbedre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshbedre&" alt="hiteshbedre" /></p>
-
-<h3 align="left">Open Source Contribution:</h3>
-
-
-
- 
-<p align="left"> 
-<a href="https://github.com/Tencent/APIJSON/pull/543"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Tencent_Logo.svg" style="width:120px;height:80px;"> </a> <a href="https://github.com/rustdesk/rustdesk/pull/4147"><img src="https://avatars.githubusercontent.com/u/71636191?v=4" style="width:120px;height:80px;"></a> </a> <a href="https://github.com/calcom/cal.com/pull/8612"><img src="https://avatars.githubusercontent.com/u/79145102?s=200&v=4" style="width:120px;height:80px;"> </a> <a href="https://github.com/HaveIBeenPwned/EmailAddressExtractor/pull/9"><img src="https://avatars.githubusercontent.com/u/78988770?s=200&v=4" style="width:120px;height:80px;"></a> <a href="https://github.com/Animenosekai/translate/pull/83"><img src="https://www.lingualinx.com/hubfs/language%20translator%20job%20(1).jpg" style="width:120px;height:80px;"></a>
-</p>
 
