@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on [privado](https://github.com/Privado-Inc/privado)
 
-- 🌱 I’m currently learning **Static Analysis**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hiteshbedre](https://github.com/hiteshbedre)
-
 - 💬 Ask me about **Regex and Privacy via Code**
 
 
