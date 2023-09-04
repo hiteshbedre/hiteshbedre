@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [privado](https://github.com/Privado-Inc/privado)
 
-- 💬 Ask me about **Regex and Privacy via Code**
+- 💬 Mastering skill **Regex and Privacy via Code**
 
 
 <h3 align="left">Open Source Contribution:</h3>
